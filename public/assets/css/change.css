@@ -1,0 +1,317 @@
+
+ 
+body , .main-header{
+    color: #ffff00;
+    background:rgba(51,51,51,1);
+ 
+}
+body a, .footer-bottom-wrapper a, a.skip-cont, .tophead .tophead-rt ul li a, .tophead .tophead-rt li.hindi a, .registration span, .registration .new-user a, .body-content .hlpDesk ul li a.active, .footer-tp-wrapper a, .caption-inr a.btn-blu, .registration .buttn, .downld-blk span, .resources-row .resources-inr .colmn ul li a, .tool-box ul li a, .signin-links a, .tophead .tophead-rt ul li.active a, .search-results .result-row li h4 a, .search-results .result-row li a, .compliant-block li a, .footer-tp-wrapper li a, .footer-tp-wrapper li a:hover, .footer-tp-wrapper li a:focus, .help-row ul.help-list li li a, .help-row ul.help-list li li a:hover, .help-row ul.help-list li li a:focus, .support-row ul.support-list li.contacts li a, .support-row ul.support-list li.contacts li a:hover, .support-row ul.support-list li.developments ul li a {
+    color: #ffff00;
+}
+.primary-header {
+    background: #000;
+   
+}
+.tophead ul li a {
+     
+    color: #ffff00;
+     
+}
+.social::before {
+    
+    background: #000000;
+ 
+}
+.query, .spanish, .features-text h3::after, .about-us h3::after, .heading h2::after, .services-link, .owl-page.active span, .sign-up button, .nav-icon, .homepage-2 .request, .solution, .about-us-page .heading h3:after, .heading h3::after, .custom-pagination li a.pagination-next, .heading h6::after, .heading h5::after, .comment-submit:hover, .about-transport, .homepage-2 .query, .more-services h6:after, .dot, .video-control, .custom-pagination li a.pagination-next:hover, .comment-drop-box form input.comment-submit:hover, .homepage-3 .services-link, .homepage-3 .spanish, .homepage-3 .query, .homepage-3 .footer h5::after, .homepage-3 .about-us h3::after, .submit-quote:hover, .footer h5::after, .shipping:hover, .location .owl-page span, .request, .list-pages a:hover, .update-cart, .shopping-cart h5:after, .shipping-heading:after, .continue, .office-search-box input[type="submit"], .news-section .slides-tab:hover .date, .social a:hover, .tag li:hover, .custom-pagination li a:hover, .audioplayer-volume-adjust > div, a.button.contact-us, .progress-btn {
+    background-color: #ffff00 !important;
+    color: #000000 !important;
+}
+.request::after {
+    border-left: 20px solid transparent;
+    border-right: 20px solid #000000;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid #000000;
+}
+
+
+.navigation > li:first-child:before {
+    border-left: 31px solid transparent;
+    border-right: 19px solid #000000;
+    border-top: 25px solid transparent;
+    border-bottom: 17px solid #000000;
+    
+}
+.navigation:before {
+    border-left: 17px solid #333333;
+    border-right: 19px solid transparent;
+    border-top: 25px solid #333333;
+    border-bottom: 18px solid transparent;
+   
+}
+.navigation {
+     
+    background: #000000;
+   
+}
+.navigation > li {
+    
+    border-left: 1px solid #2f2f2f;
+ 
+}
+.navigation:after {
+    
+    background: #000000;
+    
+}
+.request-quote.top-spacer {
+    background: #333;
+ 
+}
+.call-us ul li a {
+    
+    color: #ffff00;
+    
+}
+.social a {
+   
+   
+    color: #ffff00;
+    
+}
+.wap-tabing .nav-tabs > li.active > a, .wap-tabing .nav-tabs > li.active > a:hover, .wap-tabing .nav-tabs > li.active > a:focus {
+    color: #ffff00;
+    
+    background-color: #000000;
+    border: 1px solid #333333;
+   
+}
+.wap-tabing .nav-tabs > li.active > a::after, .wap-tabing .nav-tabs > li.active > a:hover::after, .wap-tabing .nav-tabs > li.active > a:focus::after {
+    border-left: 8px solid #000000;
+    border-right: 8px solid transparent;
+    border-top: 20px solid transparent;
+    border-bottom: 21px solid #000000;
+}
+.wap-tabing .nav-tabs > li > a {
+    
+    color: #ffff00;
+    background: #333333;
+    
+}
+.wap-tabing .nav-tabs > li > a::after {
+    border-left: 8px solid #333333;
+    border-right: 8px solid transparent;
+    border-top: 20px solid transparent;
+    border-bottom: 21px solid #333333;
+    
+}
+.nav-tabs {
+    border-bottom: 1px solid #333;
+}
+.request-quote input.submit-quote {
+    
+    background: #ffff00 !important;
+ 
+    color: #000;  
+}
+.banner-text h2 {
+   
+    color: #ff0;
+    
+}
+.caption p {
+     
+    color: #ff0;
+}
+h2, .h2 , .heading span, .slides-text h4 a, p, h3, .h3, .text-white, h5, .h5, .quick-list li a, .footer-nav ul a, .our-address h6{
+     
+    color: #ffff00 !important;
+}
+.slides-text {
+    
+    box-shadow: 0px 0 6px 2px rgb(212 222 229 / 40%);
+    -webkit-box-shadow: 0px 0 6px 2px rgb(51 51 51);
+    border: 1px solid #ffff00;
+}
+.our-info {
+    background: #000000 none repeat scroll 0 0;
+    
+}
+.services .card {
+    background: #333 !important;
+}
+.our-info .services {
+    
+    border-right: 1px solid #ffff00;
+}
+.about-us {
+    background: #333333;
+  
+}
+.about-us h3 {
+    color: #ff0;
+  
+}
+.about-section.homepage-6 {
+   
+    background: #000;
+}
+.homepage-6 .about-text {
+    
+    background: #333;
+    box-shadow: 0 0 10px #000;
+}
+
+.query a.button.contact-us {
+    background-color: #ffff00 !important;
+    color: #000;
+}
+html .query {
+    background-color: #333333 !important;
+}
+.footer {
+    background: #000000;
+    
+}
+.footer-nav ul {
+    
+    background: #333333;
+   
+}
+.footer-nav ul:before {
+    border-color: rgba(0, 0, 0, 0) #333333 #333333 rgba(0, 0, 0, 0);
+    
+}
+.footer-nav ul:after {
+    background: #333333;
+    
+}
+.address {
+    
+    color: #ffff00;
+    
+}
+.copyright {
+    color: #ffff00;
+    
+}
+.phone span a {
+    color: #ffff00;
+    
+}
+a:hover, a:focus {
+    color: #ffff00;
+     
+}
+.phone > span {
+    color: #ffff00;
+    
+}
+.tophead ul li {
+    
+    border-right: 1px solid rgb(51 51 51);
+}
+.social li {
+    
+    border-left: 1px solid #333333;
+ 
+}
+.team-wrap .team {
+   
+    background: #333333;
+}
+.our-service-wrap .h5, .quote .h5 {
+    
+    background: #000000;
+ 
+}
+.our-service li a {
+    
+    color: #d6ff00;
+    
+}
+.our-service-wrap .h5:after, .quote .h5:after {
+    border-color: transparent transparent #000000 #000000;
+   
+}
+.our-service li {
+    border-bottom: 1px solid #000000;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    color: #ff0;
+    
+    background-color: #000;
+    border: 1px solid #000;
+     
+}
+.navigation li a {
+    
+    color: #ff0;
+    
+}
+.nav > li > a:hover, .nav > li > a:focus {
+   
+    background-color: #000;
+}
+h1, .h1 {
+    
+    color: #ff0;
+    
+}
+.shipping {
+    
+    color: #ffff00 !important;
+    
+    background: #000000;
+   
+}
+.shipping:after {
+    border-left: 8px solid #000000;
+    
+    border-bottom: 20px solid #000000;
+    
+}
+.services .table th {
+    background: #000000;
+}
+.list-route-title, .brand-name, .route-listing {
+ 
+    background: #000000;
+   
+}
+.list-route-title h2 span.text, .route-listing ul li a {
+ 
+    color: #ffff00;
+  
+}
+.route-listing ul li i.fa.fa-road {
+    
+    color: #ffff00;
+}
+.view-details-bg {
+     
+    background: #000;
+}
+.list-time-duration {
+    
+    border-right: 2px solid #717171;
+
+   
+}
+.list-active-round {
+    
+    border: 1px solid #ffff00;
+ 
+}
+.panel {
+    
+    background-color: #000;
+  
+}
+.accordion-section .panel-default .panel-title a.accordion-toggle {
+    background: #000000;
+    color: #ff0;
+}
+.accordion-section .panel-default .panel-title a.accordion-toggle.collapsed {
+    background: #333333 !important;
+    color: #ff0;
+}
