@@ -1,5 +1,19 @@
-const page = () => {
-     return(<section id="section">
+const Page = () => {
+     return(
+     <>
+      <div className="banner spacetop" >
+      <div className="banner-text">
+          <div className="container">
+              <div className="row">
+                  <div className="col-xs-12">
+                      <a href="#" className="shipping">ground shipping</a>
+                      <h1>about us</h1>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+     <section id="section">
   {/*Section box starts Here */}
   <div className="section" id="fontSize">
     <div className="amazing-features">
@@ -72,6 +86,7 @@ const page = () => {
   </div>
   {/*Section box ends Here */}
 </section>
-
+</>
  );
 }
+export default Page;

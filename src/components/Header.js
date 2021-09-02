@@ -35,7 +35,7 @@ function Header() {
                                              </li>
                                              <li> <a>about us <i className="fa fa-angle-down" aria-hidden="true" /></a>
                                                   <ul className="sub-menu">
-                                                       <li className><a href="about-us.html">Brief Overview of BCLL</a>
+                                                       <li className><Link to="/about-us">About</Link>
                                                        </li>
                                                        <li><a href="brts.html">Bus Rapid Transit System (BRTS)</a>
                                                        </li>
