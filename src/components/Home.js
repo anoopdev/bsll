@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 
-import Header from './Header'
+
 import Banner from './Banner'
 import HomeCount from './HomeCount';
-import Footer from './Footer';
+
 const axios = require('axios');
 const Home = () => {
-     const fetchData = async () => {
+     const fetchSlider = async () => {
           try {
                const response = await axios.get('https://jsonplaceholder.typicode.com/users');
                console.error(response);
@@ -17,11 +17,11 @@ const Home = () => {
      }
      const [users, setUsers] = useState([]);
      useEffect(() => {
-          fetchData();
+          fetchSlider();
      }, []);
      return (
-          <div id="wrapper" className="homepage homepage-1">
-               <Header />
+               <>
+               
                <div className="bannercontainer spacetop">
                     <Banner />
 
@@ -270,8 +270,8 @@ const Home = () => {
                          </div>
                     </div>
                </section>
-               <Footer />
-          </div>
+               
+          </>
      );
 }
 export default Home;
